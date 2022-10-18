@@ -1,0 +1,13 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "postgres-meta",
+    "description": "A REST API to manage your Postgres database",
+    "version": "0.0.0-automated"
+  },
+  "components": {
+    "schemas": {}
+  },
+  "paths": {},
+  "servers": []
+}
